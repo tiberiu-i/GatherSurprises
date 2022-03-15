@@ -2,16 +2,16 @@
 A short Java project that implements OOP Java concepts (Abstraction, Encapsulation, Inheritance, Polymorphism)
 
 Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei de clase, studiate pana in prezent. Concret, in cadrul exercitiului se urmareste punerea in practica a urmatoarelor notiuni:
-• reutilizarea functionalitatii prin diverse procedee, precum:
-• mostenire
-• compunere si agregare
-• ascunderea functionalitatii si a datelor prin incapsulare
-• implementarea de metode wrapper si utilizarea delegarii
-• continuarea dezvoltarii abilitatilor practice de design si proiectare a unei arhitecturi de clase, nivel mediu de complexitate
-• organizarea corecta a codului in functie de aplicabilitate, clase, metode
-• lucru cu obiecte de tipuri diferite dintr-o perspectiva comuna, folosind upcasting
-• proiectarea si utilizarea interfetelor in comunicarea dintre componente
-• familiarizarea cu conceptul de genericitate in dezvoltarea software
+1. reutilizarea functionalitatii prin diverse procedee, precum:
+2. mostenire
+3. compunere si agregare
+4. ascunderea functionalitatii si a datelor prin incapsulare
+5. implementarea de metode wrapper si utilizarea delegarii
+6. continuarea dezvoltarii abilitatilor practice de design si proiectare a unei arhitecturi de clase, nivel mediu de complexitate
+7. organizarea corecta a codului in functie de aplicabilitate, clase, metode
+8. lucru cu obiecte de tipuri diferite dintr-o perspectiva comuna, folosind upcasting
+9. proiectarea si utilizarea interfetelor in comunicarea dintre componente
+10. familiarizarea cu conceptul de genericitate in dezvoltarea software
 
 Scop final
 Scopul final este de a obtine un sistem generic capabil sa:
