@@ -1,5 +1,5 @@
 # GatherSurprises
-A short Java project that implements OOP Java concepts (Abstraction, Encapsulation, Inheritance, Polymorphism)
+Un scurt proiect Java care implementeaza conceptele OOP Java (Abstractizare, Incapsulare, Mostenire, Polimorfism)
 
 Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei de clase, studiate pana in prezent. Concret, in cadrul exercitiului se urmareste punerea in practica a urmatoarelor notiuni:
 1. reutilizarea functionalitatii prin diverse procedee, precum:
