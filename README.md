@@ -14,6 +14,7 @@ Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei d
 10. familiarizarea cu conceptul de genericitate in dezvoltarea software
 
 Scop final:
+
 Scopul final este de a obtine un sistem generic capabil sa:
 
 1. utilizeze mai multe tipuri de surprize (i.e. ce implementeaza o interfata comuna)
